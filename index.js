@@ -20,7 +20,8 @@ const swaggerOptions={
                 url:'https://hashtagitco.tech',
                 email:'sankalp.chake@hashtagitco.tech'
             },
-            servers:["http://localhost:3000"]
+            // servers:["http://localhost:3000"]
+            servers:["https://swaggerui1.herokuapp.com/"]
         }
     },
     apis:["index.js"]
