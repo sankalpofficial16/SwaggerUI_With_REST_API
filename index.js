@@ -49,7 +49,7 @@ app.use(express.json());
  *    date_of_joining:
  *     type: string
  *     description: date of joining of the employee
- *     example: '2021-06-30'
+ *     example: '2021-06-01'
  *    email:
  *     type: string
  *     description: email of the employee
